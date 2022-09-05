@@ -1,5 +1,3 @@
-# Web App for Cash Management for MARK10
+# Cash Register Manager
 
-This is web app to get the exact amount that the amount to be returned to customer.
-
-Project URI: here
+Project URL: https://spiffy-panda-eecd3a.netlify.app/
